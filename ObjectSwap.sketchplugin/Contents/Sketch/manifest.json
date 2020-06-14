@@ -1,0 +1,24 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "ObjectSwap",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "ObjectSwap",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.f17b0c16-1ff3-45f1-9c49-8d0e05a2d89c",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "ObjectSwap"
+}
